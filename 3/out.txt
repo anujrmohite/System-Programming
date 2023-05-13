@@ -1,0 +1,4 @@
+load &a
+add &b
+load m
+END

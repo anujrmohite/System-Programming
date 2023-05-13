@@ -1,0 +1,12 @@
+load &a
+add &b
+load p
+add q
+load x
+add &a
+sub &c
+mult y
+store &b
+load m
+XYZ 3 , 4 , 5
+END
